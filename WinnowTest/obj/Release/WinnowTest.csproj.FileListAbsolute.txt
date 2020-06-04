@@ -1,0 +1,10 @@
+E:\İndirilenler\omar_gameel_salem-context-sensitive-spelling-correction-998f5ad56ce5\omar_gameel_salem-context-sensitive-spelling-correction-998f5ad56ce5\WinnowTest\bin\Release\WinnowTest.exe.config
+E:\İndirilenler\omar_gameel_salem-context-sensitive-spelling-correction-998f5ad56ce5\omar_gameel_salem-context-sensitive-spelling-correction-998f5ad56ce5\WinnowTest\bin\Release\WinnowTest.exe
+E:\İndirilenler\omar_gameel_salem-context-sensitive-spelling-correction-998f5ad56ce5\omar_gameel_salem-context-sensitive-spelling-correction-998f5ad56ce5\WinnowTest\bin\Release\WinnowTest.pdb
+E:\İndirilenler\omar_gameel_salem-context-sensitive-spelling-correction-998f5ad56ce5\omar_gameel_salem-context-sensitive-spelling-correction-998f5ad56ce5\WinnowTest\bin\Release\Winnow.dll
+E:\İndirilenler\omar_gameel_salem-context-sensitive-spelling-correction-998f5ad56ce5\omar_gameel_salem-context-sensitive-spelling-correction-998f5ad56ce5\WinnowTest\bin\Release\Winnow.pdb
+E:\İndirilenler\omar_gameel_salem-context-sensitive-spelling-correction-998f5ad56ce5\omar_gameel_salem-context-sensitive-spelling-correction-998f5ad56ce5\WinnowTest\obj\Release\WinnowTest.csprojAssemblyReference.cache
+E:\İndirilenler\omar_gameel_salem-context-sensitive-spelling-correction-998f5ad56ce5\omar_gameel_salem-context-sensitive-spelling-correction-998f5ad56ce5\WinnowTest\obj\Release\WinnowTest.csproj.CoreCompileInputs.cache
+E:\İndirilenler\omar_gameel_salem-context-sensitive-spelling-correction-998f5ad56ce5\omar_gameel_salem-context-sensitive-spelling-correction-998f5ad56ce5\WinnowTest\obj\Release\WinnowTest.csproj.CopyComplete
+E:\İndirilenler\omar_gameel_salem-context-sensitive-spelling-correction-998f5ad56ce5\omar_gameel_salem-context-sensitive-spelling-correction-998f5ad56ce5\WinnowTest\obj\Release\WinnowTest.exe
+E:\İndirilenler\omar_gameel_salem-context-sensitive-spelling-correction-998f5ad56ce5\omar_gameel_salem-context-sensitive-spelling-correction-998f5ad56ce5\WinnowTest\obj\Release\WinnowTest.pdb

@@ -1,0 +1,9 @@
+E:\İndirilenler\omar_gameel_salem-context-sensitive-spelling-correction-998f5ad56ce5\omar_gameel_salem-context-sensitive-spelling-correction-998f5ad56ce5\FeatureExtractor\bin\Debug\FeatureExtractor.dll
+E:\İndirilenler\omar_gameel_salem-context-sensitive-spelling-correction-998f5ad56ce5\omar_gameel_salem-context-sensitive-spelling-correction-998f5ad56ce5\FeatureExtractor\bin\Debug\FeatureExtractor.pdb
+E:\İndirilenler\omar_gameel_salem-context-sensitive-spelling-correction-998f5ad56ce5\omar_gameel_salem-context-sensitive-spelling-correction-998f5ad56ce5\FeatureExtractor\bin\Debug\OpenNLP.dll
+E:\İndirilenler\omar_gameel_salem-context-sensitive-spelling-correction-998f5ad56ce5\omar_gameel_salem-context-sensitive-spelling-correction-998f5ad56ce5\FeatureExtractor\bin\Debug\SharpEntropy.dll
+E:\İndirilenler\omar_gameel_salem-context-sensitive-spelling-correction-998f5ad56ce5\omar_gameel_salem-context-sensitive-spelling-correction-998f5ad56ce5\FeatureExtractor\obj\Debug\FeatureExtractor.csprojAssemblyReference.cache
+E:\İndirilenler\omar_gameel_salem-context-sensitive-spelling-correction-998f5ad56ce5\omar_gameel_salem-context-sensitive-spelling-correction-998f5ad56ce5\FeatureExtractor\obj\Debug\FeatureExtractor.csproj.CoreCompileInputs.cache
+E:\İndirilenler\omar_gameel_salem-context-sensitive-spelling-correction-998f5ad56ce5\omar_gameel_salem-context-sensitive-spelling-correction-998f5ad56ce5\FeatureExtractor\obj\Debug\FeatureExtractor.csproj.CopyComplete
+E:\İndirilenler\omar_gameel_salem-context-sensitive-spelling-correction-998f5ad56ce5\omar_gameel_salem-context-sensitive-spelling-correction-998f5ad56ce5\FeatureExtractor\obj\Debug\FeatureExtractor.dll
+E:\İndirilenler\omar_gameel_salem-context-sensitive-spelling-correction-998f5ad56ce5\omar_gameel_salem-context-sensitive-spelling-correction-998f5ad56ce5\FeatureExtractor\obj\Debug\FeatureExtractor.pdb

@@ -1,0 +1,6 @@
+E:\İndirilenler\omar_gameel_salem-context-sensitive-spelling-correction-998f5ad56ce5\omar_gameel_salem-context-sensitive-spelling-correction-998f5ad56ce5\Winnow\bin\Debug\Winnow.dll
+E:\İndirilenler\omar_gameel_salem-context-sensitive-spelling-correction-998f5ad56ce5\omar_gameel_salem-context-sensitive-spelling-correction-998f5ad56ce5\Winnow\bin\Debug\Winnow.pdb
+E:\İndirilenler\omar_gameel_salem-context-sensitive-spelling-correction-998f5ad56ce5\omar_gameel_salem-context-sensitive-spelling-correction-998f5ad56ce5\Winnow\obj\Debug\Winnow.csprojAssemblyReference.cache
+E:\İndirilenler\omar_gameel_salem-context-sensitive-spelling-correction-998f5ad56ce5\omar_gameel_salem-context-sensitive-spelling-correction-998f5ad56ce5\Winnow\obj\Debug\Winnow.csproj.CoreCompileInputs.cache
+E:\İndirilenler\omar_gameel_salem-context-sensitive-spelling-correction-998f5ad56ce5\omar_gameel_salem-context-sensitive-spelling-correction-998f5ad56ce5\Winnow\obj\Debug\Winnow.dll
+E:\İndirilenler\omar_gameel_salem-context-sensitive-spelling-correction-998f5ad56ce5\omar_gameel_salem-context-sensitive-spelling-correction-998f5ad56ce5\Winnow\obj\Debug\Winnow.pdb

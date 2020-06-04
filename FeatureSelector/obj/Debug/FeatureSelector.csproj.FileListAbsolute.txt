@@ -1,0 +1,6 @@
+E:\İndirilenler\omar_gameel_salem-context-sensitive-spelling-correction-998f5ad56ce5\omar_gameel_salem-context-sensitive-spelling-correction-998f5ad56ce5\FeatureSelector\bin\Debug\FeatureSelector.dll
+E:\İndirilenler\omar_gameel_salem-context-sensitive-spelling-correction-998f5ad56ce5\omar_gameel_salem-context-sensitive-spelling-correction-998f5ad56ce5\FeatureSelector\bin\Debug\FeatureSelector.pdb
+E:\İndirilenler\omar_gameel_salem-context-sensitive-spelling-correction-998f5ad56ce5\omar_gameel_salem-context-sensitive-spelling-correction-998f5ad56ce5\FeatureSelector\obj\Debug\FeatureSelector.csprojAssemblyReference.cache
+E:\İndirilenler\omar_gameel_salem-context-sensitive-spelling-correction-998f5ad56ce5\omar_gameel_salem-context-sensitive-spelling-correction-998f5ad56ce5\FeatureSelector\obj\Debug\FeatureSelector.csproj.CoreCompileInputs.cache
+E:\İndirilenler\omar_gameel_salem-context-sensitive-spelling-correction-998f5ad56ce5\omar_gameel_salem-context-sensitive-spelling-correction-998f5ad56ce5\FeatureSelector\obj\Debug\FeatureSelector.dll
+E:\İndirilenler\omar_gameel_salem-context-sensitive-spelling-correction-998f5ad56ce5\omar_gameel_salem-context-sensitive-spelling-correction-998f5ad56ce5\FeatureSelector\obj\Debug\FeatureSelector.pdb
